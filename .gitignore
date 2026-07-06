@@ -1,0 +1,26 @@
+### NetBeans / Java build artifacts ###
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+nb-configuration.xml
+.nb-gradle/
+
+### Compiled class files ###
+*.class
+
+### Packaged archives ###
+*.jar
+*.war
+*.ear
+
+### Logs ###
+*.log
+
+### OS / editor cruft ###
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
