@@ -21,15 +21,15 @@ written permission from the author.
 
 ## Team Members
 
-Helman Kokela
-Meluleki Nhlabathi
-Sibusiso Mahlangu
-Alex Aphane
-Ruth Mabena
-Gabisile Ncube
+-Helman Kokela
+-Meluleki Nhlabathi
+-Sibusiso Mahlangu
+-Alex Aphane
+-Ruth Mabena
+-Gabisile Ncube
 
 ## Group Project
-This project was developed as part of a university group assignment by a team of five students.
+This project was developed as part of a university group assignment by a team of six students.
 
 ### My Contributions (Meluleki Nhlabathi)
 - Integrated the database with the application.
