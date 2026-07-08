@@ -21,12 +21,12 @@ written permission from the author.
 
 ## Team Members
 
--Helman Kokela
--Meluleki Nhlabathi
--Sibusiso Mahlangu
--Alex Aphane
--Ruth Mabena
--Gabisile Ncube
+1. Helman Kokela
+2. Meluleki Nhlabathi
+3. Sibusiso Mahlangu
+4. Alex Aphane
+5. Ruth Mabena
+6. Gabisile Ncube
 
 ## Group Project
 This project was developed as part of a university group assignment by a team of six students.
